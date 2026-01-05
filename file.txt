@@ -1,3 +1,6 @@
 git push --set-upstream origin main
 
 git push --set-upstream origin origin
+
+
+git push --set-upstream origin three commit
